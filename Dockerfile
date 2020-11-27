@@ -1,6 +1,6 @@
-FROM python:3.5
+FROM python:3.9
 
-WORKDIR /usr/bin/active
+WORKDIR usr/src/app
 
 EXPOSE 8000
 
